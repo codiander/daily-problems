@@ -9,3 +9,4 @@ while True:
               f" RUPEES ONLY")
         break                           #always add break while you use a loop otherwise it would not end
 
+"the code is available on github also."
